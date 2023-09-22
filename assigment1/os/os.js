@@ -1,6 +1,6 @@
 /** @format */
 
-const os = require("os");
+const os = require("assigment1/os/os");
 
 // Print out the process id of the current running process
 // console.log("Process ID: 29572", process.pid);
